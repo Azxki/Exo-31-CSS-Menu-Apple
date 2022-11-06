@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu {
+    background-color: #323232;
+    padding-bottom: 50px;
+}
+
+.menu-top {
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    margin-left: 600px;
+    text-transform: capitalize;
+}
+
+.img-pomme {
+    position: absolute;
+    padding-top: 2px;
+    margin-left: 400px;
+    image-resolution: 20px;
+}
+
+.img-pomme img {
+    width: 60px;
+}
+
+.menu-top #Shop {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -100px;
+}
+
+.menu-top #Mac {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -20px;
+}
+
+.menu-top #Ipad {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+.menu-top #Iphone {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 140px;
+}
+
+.menu-top #Watch {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 220px;
+}
+
+.menu-top #AirPods {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 300px;
+}
+
+.menu-top #Tv_Maison {
+    position: absolute;
+    margin-bottom: -10px;
+    margin-left: 380px;
+    padding-bottom: -10px;
+}
+
+.menu-top #Exclu {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 460px;
+}
+
+.menu-top #Access {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 580px;
+}
+
+.menu-top #Assist {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 680px;
+}
+
+.img-search li img {
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 8px;
+    width: 40px;
+}
+
+.img-shop li img {
+    position: absolute;
+    margin-left: 840px;
+    margin-top: 4px;
+    width: 45px;
+}
+
+a {
+    color: #AEAEAE;
+}
